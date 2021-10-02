@@ -1,10 +1,12 @@
 - ⚫Gustavo Soares;
 - 📚CC in UFCG;
-- 🌱Learning Python;
+- 🌱Learning Python, Java, HTML;
 - 👀I'm looking to collaborate as much as I can;
 - 📫gutocz06@hotmail.com / Gutocz#7407
 
-![Gutocz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gutocz&theme=vue-dark&show_icons=true)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Century+Gothic&color=59F5BE&size=40&center=true&vCenter=true&lines=You're+Welcome)](https://git.io/typing-svg)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gutocz&theme=green_nur)](https://git.io/streak-stats)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a5i5zqurxnu6ty5y43kyz5a&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
