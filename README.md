@@ -10,7 +10,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a5i5zqurxnu6ty5y43kyz5a&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Century+Gothic&color=59F5BE&size=40&center=true&vCenter=true&lines=Goodbye)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Century+Gothic&color=59F5BE&size=40&center=true&vCenter=true&lines=Goodbye!)](https://git.io/typing-svg)
 
 <a href="https://github.com/gutocz"><img alt="GIF" title="GIF" src="https://media.giphy.com/media/zwDNti5vWFujS/giphy.gif"/></a>
 
