@@ -8,7 +8,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gutocz&theme=green_nur)](https://git.io/streak-stats)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22a5i5zqurxnu6ty5y43kyz5a&cover_image=false&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31f6gun2iepfhfrkct6p3zqxinfa&cover_image=true&theme=novatorem&bar_color=2a5c28&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Century+Gothic&color=59F5BE&size=40&center=true&vCenter=true&lines=Goodbye!)](https://git.io/typing-svg) --->
 
