@@ -3,7 +3,7 @@
 - ✔Python, Java, JS;
 - 🌱Learning Java, ReactJS;
 - 👀I'm looking to collaborate as much as I can;
-- 📫gustavo.soares@ccc.ufcg.com / Gutocz#7407
+- 📫gustavo.soares@ccc.ufcg.com
 
 <!--- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Century+Gothic&color=59F5BE&size=40&center=true&vCenter=true&lines=You're+Welcome)](https://git.io/typing-svg) --->
 
