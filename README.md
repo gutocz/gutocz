@@ -1,6 +1,6 @@
 - ⚫Gustavo Soares;
 - 📚CC in UFCG;
-- ✔Python, Java, JS;
+- ✔Python, Java, JS, SQL;
 - 🌱Learning Java, ReactJS;
 - 👀I'm looking to collaborate as much as I can;
 - 📫gustavo.soares@ccc.ufcg.com
