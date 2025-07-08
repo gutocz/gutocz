@@ -1,23 +1,44 @@
-- ⚫Gustavo Soares;
-- 📚CC in UFCG;
-- ✔Python, Java, Springboot, JS, React, NodeJS, SQL;
-- 🌱Learning Angular;
-- 👀I'm looking to collaborate as much as I can;
-- 📫gustavo.soares@ccc.ufcg.com
+# Hello, I'm Gustavo Soares! 👋
 
-<!--- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Century+Gothic&color=59F5BE&size=40&center=true&vCenter=true&lines=You're+Welcome)](https://git.io/typing-svg) --->
+<p align="left">
+  I am a software developer and a Computer Science student at the <strong>Federal University of Campina Grande (UFCG)</strong>. 
+  I'm passionate about problem-solving and building efficient and scalable web applications.
+</p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gutocz&theme=green_nur)](https://git.io/streak-stats)
+---
 
-<!--- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Century+Gothic&color=59F5BE&size=40&center=true&vCenter=true&lines=Goodbye!)](https://git.io/typing-svg) --->
+### 🛠️ Technologies & Tools
 
-<!--- <a href="https://github.com/gutocz"><img alt="GIF" title="GIF" src="https://media.giphy.com/media/zwDNti5vWFujS/giphy.gif"/></a> --->
+<p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+</p>
 
-<!--- <a href="https://github.com/gutocz"><img alt="GIF" title="GIF" src="https://i.imgur.com/qiXu7b2.png"/></a> --->
+---
 
-<!---
-gutocz/gutocz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 My Main Projects
 
-# Some cool projects that i worked on here ⬇
+* **ARAMSelect:** Development of a personal project that uses a public game API to simulate a draft system, focused on enabling custom matches.
+* **FuriaCHAT:** Development of a web chatbot using AI API and data scraping.
+
+---
+
+
+### 📫 Get in Touch
+
+<p align="left">
+  I'm always open to new opportunities and collaborations. Feel free to get in touch!
+  <br/><br/>
+  <a href="mailto:gustavo.soares@ccc.ufcg.edu.br">
+    <img src="https://img.shields.io/badge/Email-gustavo.soares@ccc.ufcg.edu.br-blue?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/gutocz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gustavo_Soares-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
