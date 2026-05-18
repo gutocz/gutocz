@@ -36,7 +36,7 @@
   I'm always open to new opportunities and collaborations. Feel free to get in touch!
   <br/><br/>
   <a href="mailto:gustavossoares.gss@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gustavo.soares@ccc.ufcg.edu.br-blue?style=for-the-badge&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-gustavossoares.gss@gmail.com-blue?style=for-the-badge&logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/gutocz/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Gustavo_Soares-blue?style=for-the-badge&logo=linkedin">
